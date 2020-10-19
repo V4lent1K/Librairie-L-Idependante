@@ -1,0 +1,200 @@
+/* CSS Document */
+* {
+	max-width: 960px;
+	font-family: "Arial", "sans-serif", "Verdana";
+}
+
+.logo {
+	width: 200px;
+	height: 84px;
+	margin-left: 50px;
+}
+
+h1 {
+	color: #aa3322;
+	font-size: 20px;
+	margin-left: 50px;
+}
+
+h2 {
+	color: #000000;
+	font-size: 24px;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+h3 {
+	color: #000000;
+	font-size: 18px;
+	margin-left: 50px;
+}
+
+p {
+	color: #000000;
+	font-size: 14px;
+	margin-left: 50px;
+	margin-bottom: 0px;
+}
+
+.sommaire {
+	background-color: #AA3322;
+	border-color: #cccccc;
+	color: #cccccc;
+	font-size: 12px;
+	margin-top: 5px;
+}
+
+.lien_menus {
+	color: #cccccc;
+}
+
+hr {
+	color: #cccccc;
+	border: none;
+	border-bottom: 1px dashed;
+	margin-left: 0px;
+}
+
+a:hover.lien_menus {
+	color: #FFFFFF;
+}
+
+a:link.lien_menus {
+	text-decoration: none;
+}
+
+a.liens {
+	color: #AA3322;
+	font-size: 14px;
+	margin-left: 50px;
+	margin-top: 0px;
+}
+
+a:hover.liens {
+	color: #AAAAAA;
+}
+
+a:link.liens {
+	text-decoration: none;
+}
+ul {
+	list-style: none;
+}
+
+blockquote {
+	background-color: #EDEDED;
+	border: 1px dashed;
+	border-color: #AA3322;
+	font-size: 16px;
+	width: 450px;
+	margin-left: 90px;
+	padding: 15px 15px;
+	font-style: italic;
+}
+.bandeau {
+	width: 960px;
+	height: 150px;
+	margin-top: 0px;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: 50px;
+}
+
+th {
+	border: 1px solid;
+	border-color: #aa3322;
+	font-size: 14px;
+	text-align: center;
+	width: 90px;
+	height: 20px;
+}
+
+td {
+	border: 1px solid;
+	border-color: #AA3322;
+	font-size: 12px;
+	text-align: center;
+	width: 90px;
+	height: 20px;
+}
+
+.plan {
+	width: 600px;
+	height: 320px;
+	margin-left:  50px;
+}
+
+.librairie {
+	width: 250px;
+	height: 150px;
+	margin-left: 50px;
+}
+
+.noel_fremond {
+	width: 249px;
+	height: 312px;
+	margin-left: 50px;
+}
+
+.pied {
+	background-color: #aaaaaa;
+	color: #721717;
+	font-size: 14px;
+	text-align: center;
+	width: 960px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	margin-top: 50px;
+	margin-left: 0px;
+}
+
+.homere {
+	margin: 10px 15px 20px 50px;
+	width: 122px;
+	height: 150px;
+}
+
+.mosaique {
+	margin: 10px 15px 20px 10px;
+	width: 200px;
+	height: 150px;
+}
+
+.sirene {
+	margin: 10px 15px 20px 10px;
+	width: 306px;
+	height: 150px;
+}
+
+.grec {
+	margin: 10px 15px 20px 10px;
+	width: 122px;
+	height: 150px;
+}
+
+.surprise {
+	margin: 10px 15px 20px 50px;
+	width: 100px;
+	height: 150px;
+}
+
+.post-modern {
+	margin: 10px 15px 20px 10px;
+	width: 448px;
+	height: 150px;
+}
+
+.portrait {
+	margin: 10px 15px 20px 10px;
+	width: 100px;
+	height: 150px;
+}
+
+.surprise2 {
+	margin: 10px 15px 20px 10px;
+	width: 100px;
+	height: 150px;
+}
